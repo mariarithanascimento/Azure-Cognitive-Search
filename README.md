@@ -1,9 +1,6 @@
 # Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
-<aside>
-❗ Lembrando que esse passo a passo foi criado apenas para fixar os conhecimentos e realiza-los de forma alternativa. Sempre siga inicialmente a documentação oficial: [Explore um índice do Azure AI Search (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
-
-</aside>
+> ❗ Lembrando que esse passo a passo foi criado apenas para fixar os conhecimentos e realiza-los de forma alternativa. Sempre siga inicialmente a documentação oficial: [Explore um índice do Azure AI Search (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
 
 Acesse o [Portal do Azure](https://portal.azure.com/#home) > Criar um recurso
 
